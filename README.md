@@ -13,16 +13,16 @@ kimbomi2172@naver.com <br>
 <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 
 
 <br>
 
 👀Tools👀 <br>
 
-
-
-
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 
 
 
