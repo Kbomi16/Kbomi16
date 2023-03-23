@@ -20,5 +20,4 @@ kimbomi2172@naver.com <br>
 
 👀Tools👀 <br>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
