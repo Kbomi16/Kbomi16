@@ -1,8 +1,7 @@
 # BOMI KIM
 🖱Front-end DEVELOPER🖱
 <hr>
-📍Portfolio <br>
-https://kbomi16.github.io/portfolio/ <br> 
+
 
 📍Email <br>
 kimbomi2172@naver.com <br>
