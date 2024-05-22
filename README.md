@@ -7,7 +7,7 @@
 kimbomi2172@naver.com <br>
 
 📍Blog <br>
-[Velog](https://velog.io/@bori_note) <br>
+[보리노트](https://bori-note.tistory.com/) <br>
 
 👀Stack👀 <br>
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
