@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/b81b3db0-29a2-42cc-b877-677537294bcd"/>
+<img src="https://github.com/user-attachments/assets/b81b3db0-29a2-42cc-b877-677537294bcd" width="500" height="500"/>
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
