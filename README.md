@@ -1,6 +1,12 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/b81b3db0-29a2-42cc-b877-677537294bcd" width="500" height="500"/>
-</div>
+# Welcome to Bomi's GitHub! 👋  
+
+Hi there! I'm **Bomi Kim**, a passionate Front-End Developer 🚀  
+I enjoy creating user-friendly web experiences and love sharing my learning journey through my tech blog! ✍️  
+
+### 🌟 About Me  
+- Interested in **React, Next.js, and UI/UX development**  
+- Love building **intuitive and dynamic web applications**  
+- Enjoy documenting my experiences and insights on my **tech blog** 📖  
 
 <br>
 
