@@ -6,7 +6,7 @@ I enjoy creating user-friendly web experiences and love sharing my learning jour
 ### 🌟 About Me  
 - Interested in **React, Next.js, and UI/UX development**  
 - Love building **intuitive and dynamic web applications**  
-- Enjoy documenting my experiences and insights on my **tech blog** 📖  
+- Enjoy documenting my experiences and insights on my [📖 Tech Blog](https://bori-note.tistory.com/)
 
 <br>
 
